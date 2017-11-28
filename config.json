@@ -1,0 +1,8 @@
+{
+  "METRIC_TYPE": "custom.googleapis.com/appdemo_queue_depth_01",
+  "METRIC_QUEUE_NAME": "appdemo_queue",
+  "LOW_VAL_MIN": 0,
+  "LOW_VAL_MAX": 99,
+  "HIGH_VAL_MIN":150,
+  "HIGH_VAL_MAX":200
+}
