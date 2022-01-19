@@ -1,5 +1,5 @@
-# Compute Engine Autoscaling Using Stackdriver Custom Metrics
-This code is an example reference implementation for the Compute Engine Autoscaling Using Stackdriver Custom Metrics [tutorial](https://cloud.google.com/solutions/autoscaling-instance-group-with-custom-stackdrivers-metric) on the Google Cloud solutions site.
+# Compute Engine autoscaling using custom Cloud Monitoring metric
+This code is an example reference implementation for the Compute Engine Autoscaling using custom Cloud Monitoring metric [tutorial](https://cloud.google.com/architecture/autoscaling-instance-group-with-custom-stackdrivers-metric) on the Google Cloud solutions site.
 
 # Components
 * writeToCustomMetric.js - a NodeJS app that uses the Google Cloud SDK client to write a custom monitoring metric 
@@ -8,4 +8,4 @@ This code is an example reference implementation for the Compute Engine Autoscal
 
 
 # Installation
-1. Follow the detailed steps in the Compute Engine Autoscaling Using Stackdriver Custom Metrics [tutorial](https://cloud.google.com/solutions/autoscaling-instance-group-with-custom-stackdrivers-metric) to configure and deploy the code
+1. Follow the detailed steps in the Compute Engine Autoscaling Using Stackdriver Custom Metrics [tutorial](https://cloud.google.com/architecture/autoscaling-instance-group-with-custom-stackdrivers-metric) to configure and deploy the code
