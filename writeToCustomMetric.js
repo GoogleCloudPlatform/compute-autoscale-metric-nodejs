@@ -20,7 +20,7 @@ const Monitoring = require('@google-cloud/monitoring');
 // import the configuration
 const config = require('./config.json');
 // Instantiates a monitoring client
-const client = Monitoring.v3.metric();
+const client = new Monitoring.MetricServiceClient();
 // gets a random integer between a [min - max-1]
 function getRandomInt(min, max) {
   min = Math.ceil(min);
